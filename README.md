@@ -11,11 +11,13 @@ This plugin is executed only in backend and when users activate the plugin, it i
    
       there is no separate file for js so after downloading the zip file do all the steps from 2 to 5.
       
-    **for color_indicator_1,** 
+   **for color_indicator_1,** 
     
     in the color_indicator.php, in the line "$document->addScript('/**joomla-cms**/plugins/system/color_indicator/color_indicator.js');"
     
-    change the joomla-cms as folder name, which you have saved in your folder, since I saved folder as joomla-cms and in general folder name is saved as joomla-cms,
+    change the joomla-cms as folder name, which you have saved in your folder, since I saved folder as joomla-cms and in general folder
+    
+    name is saved as joomla-cms,
     
     so I have used this, you can change accordingly the path, then do the steps drom 2 to 5.
 
