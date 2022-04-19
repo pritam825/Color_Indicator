@@ -3,7 +3,7 @@ This plugin is executed only in backend and when users activate the plugin, it i
 
 
 Installation Process
-Download the zip file or clone the plugin and compress joomla-pagetitlesuffix-plugin folder as zip file.
+Download the zip file or clone the plugin and compress joomla-color indicator-plugin folder as zip file.
 Visit Joomla Extension Manager and install the zip file.
 Go to System and click on Plugin under Manage section.
 Search for System - color indicator plugin and activate it.
