@@ -11,7 +11,7 @@ This plugin is executed only in backend and when users activate the plugin, it i
    
       there is no separate file for js so after downloading the zip file do all the steps from 2 to 5.
       
-   **for color_indicator_1,** 
+   **for color_indicator,** 
     
     in the color_indicator.php, in the line "$document->addScript('/joomla-cms/plugins/system/color_indicator/color_indicator.js');"
     
