@@ -13,11 +13,11 @@ This plugin is executed only in backend and when users activate the plugin, it i
       
    **for color_indicator_1,** 
     
-    in the color_indicator.php, in the line "$document->addScript('/**joomla-cms**/plugins/system/color_indicator/color_indicator.js');"
+    in the color_indicator.php, in the line "$document->addScript('/joomla-cms/plugins/system/color_indicator/color_indicator.js');"
     
-    change the joomla-cms as folder name, which you have saved in your folder, since I saved folder as joomla-cms and in general folder
+    change the joomla-cms as folder name since it represent the path, which you have saved in your folder, since I saved folder as joomla-cms and in general 
     
-    name is saved as joomla-cms,
+    folder name is saved as joomla-cms,
     
     so I have used this, you can change accordingly the path, then do the steps drom 2 to 5.
 
