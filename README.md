@@ -17,9 +17,9 @@ This plugin is executed only in backend and when users activate the plugin, it i
     
     change the joomla-cms as folder name since it represent the path, which you have saved in your folder, since I saved folder
     
-    as joomla-cms and in general folder name is saved as joomla-cms,
+    as joomla-cms and in general folder name is saved as joomla-cms,so I have used this, you can change accordingly the path,
     
-    so I have used this, you can change accordingly the path, then do the steps drom 2 to 5.
+    then do the steps from 2 to 5.
 
 2.Visit Joomla Extension Manager and install the zip file.
 
