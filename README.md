@@ -3,7 +3,14 @@ This plugin is executed only in backend and when users activate the plugin, it i
 
 
 # Installation Process
-1.Download the zip file or clone the plugin and compress joomla-color indicator-plugin folder as zip file.
+1.Download the zip file or clone the plugin and compress joomla-color_indicator-plugin folder as zip file.
+    There are two zip folder name as color_indicator and color_indicator_1.
+    **for color_indicator_1,** 
+      there is no separate file for js so after downloading the zip file do all the steps from 2 to 5.
+    **for color_indicator,**
+    in the color_indicator.php, in the line "$document->addScript('/**joomla-cms**/plugins/system/color_indicator/color_indicator.js');"
+    change the joomla-cms as folder name, which you have saved in your folder, since I saved folder as joomla-cms and in general folder name is saved as joomla-cms,
+    so I have used this, you can change accordingly the path, then do the steps drom 2 to 5.
 
 2.Visit Joomla Extension Manager and install the zip file.
 
